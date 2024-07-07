@@ -2,9 +2,10 @@ package main
 
 import (
 	"fmt"
-	"github.com/kogutich/go-async"
 	"log"
 	"time"
+
+	"github.com/kogutich/go-async"
 )
 
 func main() {
